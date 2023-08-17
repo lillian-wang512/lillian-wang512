@@ -21,6 +21,10 @@
 
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=lillian-wang512&repo=python-code-demo)
 
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=lillian-wang512&repo=cryptography-)
+
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=lillian-wang512&repo=Mobile-Internet-Security)
+
 
 
 
